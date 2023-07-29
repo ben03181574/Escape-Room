@@ -2,10 +2,10 @@
 **_結合恐怖音效、驚悚圖案以及益智解謎，讓玩家彷彿身歷密室當中，享受解謎樂趣。_**
 
 ## 遊戲預覽（Preview of Game）
-<img width="500" alt="front" src="https://github.com/ben03181574/Java_Escape-Room/assets/61927641/7333ba74-1b1d-43aa-9300-9a501f198400">
-<img width="500" alt="setting" src="https://github.com/ben03181574/Java_Escape-Room/assets/61927641/2fe7cdfa-1295-45e2-a03e-4153409015c3">
-<img width="500" alt="doll" src="https://github.com/ben03181574/Java_Escape-Room/assets/61927641/250b68a6-3ba5-4aa7-bf7a-b38e73bbf5b1">
-<img width="500" alt="bathroom" src="https://github.com/ben03181574/Java_Escape-Room/assets/61927641/eb158337-7dc0-4975-93b5-431ac3a1d04d">
+<img width="500" alt="front" src="https://github.com/ben03181574/Escape-Room/assets/61927641/149fc7a8-15ca-4df1-8618-f1c719f52463">
+<img width="500" alt="setting" src="https://github.com/ben03181574/Escape-Room/assets/61927641/7df0b109-e168-4b93-8146-8f74762d3930">
+<img width="500" alt="doll" src="https://github.com/ben03181574/Escape-Room/assets/61927641/ee7717ba-4d8e-4715-b881-adf634323beb">
+<img width="500" alt="bathroom" src="https://github.com/ben03181574/Escape-Room/assets/61927641/11ae156b-7a39-4cfa-9729-4137a93a30b0">
 
 ## 遊戲規則（Rule of Game）
 1. 進入遊戲前，可以於設定中選擇**簡單**或者**困難**模式來進行遊戲。
@@ -38,12 +38,12 @@
 10. 點擊位於床底下的櫃子，輸入由剛剛密碼卡得知的**密碼3973**，即可獲得一**恐怖娃娃**。
 11. 透過釘子點擊恐怖娃娃中的雙眼以及肚子，可以拿到線索**丙卡牌、丁卡牌以及數字箱**。
 12. 透過卡牌順序表、卡牌數字轉換表以及甲乙丙丁卡牌，可以得知**密碼為8203**。
-13. 點擊數字箱後輸入密碼，可以拿到**大門鑰匙**，點選鑰匙以及大門即可成功逃脫密室。  
-<img width="500" alt="1" src="https://github.com/ben03181574/Java_Escape-Room/assets/61927641/f4626add-4f62-491c-a589-a7034b23ebe1">
-<img width="500" alt="2" src="https://github.com/ben03181574/Java_Escape-Room/assets/61927641/110c2d20-fdae-4c8d-a48c-84de71c514e4">
-<img width="500" alt="3" src="https://github.com/ben03181574/Java_Escape-Room/assets/61927641/888d615c-8095-4b25-b153-da234ca815eb">
-<img width="500" alt="4" src="https://github.com/ben03181574/Java_Escape-Room/assets/61927641/9ca5abe4-303b-4210-b5b0-fdbfc3bf0042">
-<img width="500" alt="5" src="https://github.com/ben03181574/Java_Escape-Room/assets/61927641/a6478115-1f48-48ec-add9-1f82bb9b9753">
-<img width="500" alt="6" src="https://github.com/ben03181574/Java_Escape-Room/assets/61927641/1d55a965-3e0e-4fce-9be4-228577518dd1">
-<img width="500" alt="7" src="https://github.com/ben03181574/Java_Escape-Room/assets/61927641/483666b3-f526-41e4-a872-430f60fba2ac">
-<img width="500" alt="8" src="https://github.com/ben03181574/Java_Escape-Room/assets/61927641/521e903c-6589-48ce-9d73-1b66d8438f9c">
+13. 點擊數字箱後輸入密碼，可以拿到**大門鑰匙**，點選鑰匙以及大門即可成功逃脫密室。
+<img width="500" alt="1" src="https://github.com/ben03181574/Escape-Room/assets/61927641/7aa5e75a-7a93-4c62-9e78-6f53f1a9f777">
+<img width="500" alt="2" src="https://github.com/ben03181574/Escape-Room/assets/61927641/57a7c67b-5fa4-44de-ad10-05cf1fd26191">
+<img width="500" alt="3" src="https://github.com/ben03181574/Escape-Room/assets/61927641/d471bdc4-d8c2-4652-8a45-cef74b77c5b9">
+<img width="500" alt="4" src="https://github.com/ben03181574/Escape-Room/assets/61927641/8d118eae-c33d-435c-84fc-5503ca7ccf9e">
+<img width="500" alt="5" src="https://github.com/ben03181574/Escape-Room/assets/61927641/e3f2243e-e36f-41e9-822d-14c2e510de05">
+<img width="500" alt="6" src="https://github.com/ben03181574/Escape-Room/assets/61927641/64993577-59a6-4f8b-9943-aba87314f5ab">
+<img width="500" alt="7" src="https://github.com/ben03181574/Escape-Room/assets/61927641/fd8f3efb-d23b-437c-80d5-c86347e0420a">
+<img width="500" alt="8" src="https://github.com/ben03181574/Escape-Room/assets/61927641/21bb7a5f-d4b4-4eb6-8887-3269410efb47">
